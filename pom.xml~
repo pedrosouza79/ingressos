@@ -151,12 +151,4 @@
         </plugins>
     </build>
 
-<developers>
-<developer>
-<name> Pedro Almeida </name>
-<email> pedrosouza79 </email>
-</developer>
-</developers>
-</project>
-
 </project>
